@@ -9,3 +9,19 @@ html {
 /*
     GENERAL
 */
+
+img {
+    max-width: 100%;
+}
+
+/*
+    HEADER
+*/
+
+header img {
+    width: 300px;
+}
+
+/*
+    MAIN
+*/
